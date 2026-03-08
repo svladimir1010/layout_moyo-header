@@ -3,8 +3,7 @@
 }
 
 html,
-body,
-ul {
+body {
   margin: 0;
   padding: 0;
 }
@@ -40,6 +39,8 @@ body {
   display: flex;
   list-style: none;
   align-items: center;
+  margin: 0;
+  padding: 0;
 }
 
 .header__nav-list .header__nav-item {
